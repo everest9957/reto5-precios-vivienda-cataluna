@@ -202,7 +202,7 @@ Dos presentaciones ejecutivas en formato PowerPoint:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/jdthgp27/reto5-precios-vivienda-cataluna.git
+git clone https://github.com/everest9957/reto5-precios-vivienda-cataluna.git
 cd reto5-precios-vivienda-cataluna
 ```
 
@@ -260,9 +260,9 @@ python src/modelado/05_shap.py
 
 **Judit Giravent Pineda**
 
-- GitHub: [@jdthgp27](https://github.com/jdthgp27)
+- GitHub: [@everest9957](https://github.com/everest9957)
 - LinkedIn: [linkedin.com/in/judit-giravent-27b167156](https://linkedin.com/in/judit-giravent-27b167156)
-- Email: jdthgp27@gmail.com
+- Email: everest9957@gmail.com
 
 ---
 
